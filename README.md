@@ -12,4 +12,8 @@
 Speaks to the volume of data in the world and where it's coming from:
 https://rivery.io/blog/big-data-statistics-how-much-data-is-there-in-the-world/
 
+Speaks to the evolution of statistics in baseball and how its grown from simple tracking to advance metrics.
+https://historicbaseball.com/looking-back-the-evolution-of-baseball-statistics-over-the-decades/
+
+
 

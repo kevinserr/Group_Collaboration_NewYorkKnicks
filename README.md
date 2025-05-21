@@ -7,4 +7,9 @@
 
 <p> Data can be numerical, like measurements or counts. It can also be observations, like colors. Data could be anything, and it is vital as a data analyst to extract meaningful insights from it. </p>
 
+## Data in the World:
+
+Speaks to the volume of data in the world and where it's coming from:
+https://rivery.io/blog/big-data-statistics-how-much-data-is-there-in-the-world/
+
 

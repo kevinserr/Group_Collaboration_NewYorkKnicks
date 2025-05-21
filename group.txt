@@ -1,7 +1,8 @@
 Member 1 Bio:Thomas Segal
 is an aspiring data analyst studying at The Marcy Lab School. He hopes to gain technical and leadership skills that will allow him to launch a meaningful, impactful, and ethical career path. (I wrote this)
-Member 2 Bio:
+Member 2 Bio: Kevin Serrano Lopez
+Kevin is an aspiring data analyst studying at The Marcy Lab School. He hopes to gain technical and leadership skills that will allow him to launch a meaningful, impactful, and ethical career path. He's also a big fan of the NY Yankees
 Member 3 Bio: Vincent Perez
-Vincent is an aspiring data analyst studying at The Marcy Lab School. He hopes to gain technical and leadership skills that will allow him to launch a meaningful, impactful, and ethical career path. He's also a big fan of the knicks.
+Vincent is an aspiring data analyst studying at The Marcy Lab School. He hopes to gain technical and leadership skills that will allow him to launch a meaningful, impactful, and ethical career path. He's also a big fan of the Knicks.
 Member 4 Bio: Rolando Mancilla-Rojas
 Rolando is an aspiring data analyst studying at The Marcy Lab School. He hopes to gain technical and leadership skills that will allow him to launch a meaningful, impactful, and ethical career path.
